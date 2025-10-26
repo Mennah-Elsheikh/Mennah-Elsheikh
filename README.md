@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 ### 🛠️ Skills & Technologies
 <p align="center">
 <a><img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,vscode,C++&theme=dark"/></a><br>
-<a><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark"/></a><br>
-<a><img src="https://skillicons.dev/icons?i=flask&theme=dark"/></a>
+<a><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,flask&theme=dark"/></a><br>
 </p>
 
 ---
@@ -66,17 +65,18 @@ https://leetcode.com/u/Mennah-Elsayed/
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mennah-Elsheikh&theme=tokyonight" height="165"/>
 </p>
 
-#### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mennah-Elsheikh&theme=tokyonight&margin-w=8">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mennah-Elsheikh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mennah-Elsheikh/Mennah-Elsheikh/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/Mennah-Elsheikh/Mennah-Elsheikh/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
 ---
 
 ### 📫 Connect With Me
