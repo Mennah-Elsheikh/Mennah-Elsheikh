@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧑‍💻 About Me
+### 💻 About Me
 - 🎓 Computer Science student passionate about **AI & Machine Learning**
 - 🔭 Working on AI-powered analytics tools & automation
 - 🧩 I love solving real-world challenges using data
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Skills & Technologies
 <p align="center">
-<a><img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,vscode,C#,C++&theme=dark"/></a><br>
+<a><img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,vscode,C++&theme=dark"/></a><br>
 <a><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark"/></a><br>
 <a><img src="https://skillicons.dev/icons?i=flask&theme=dark"/></a>
 </p>
@@ -75,21 +75,13 @@ https://leetcode.com/u/Mennah-Elsayed/
 
 ### 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/Mennah-Elsheikh/Mennah-Elsheikh/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
+  <img src="https://raw.githubusercontent.com/Mennah-Elsheikh/Mennah-Elsheikh/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
-
 ---
 
 ### 📫 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/mennah-elsheikh-9a0385272/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mennahelsheikh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 👀 Visitor Counter
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mennah-Elsheikh&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
 </p>
 
