@@ -34,14 +34,22 @@ Here are some ideas to get you started:
 ### 🛠️ Skills & Technologies
 <p align="center">
 
-<!-- Skillicons -->
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,vscode,pytorch,tensorflow,sklearn,numpy,pandas,flask&theme=dark"/>
+<!-- Line 1 -->
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,vscode&theme=dark" />
 
-<!-- Custom icons -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg" width="48"/>
+<br><br>
+
+<!-- Line 2 -->
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,flask&theme=dark" />
+
+<!-- Custom: Airflow -->
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apache-airflow.svg" width="48" />
+
+<!-- Custom: SQL Server -->
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-sql-server.svg" width="48" />
 
 </p>
+
 ---
 
 ### 🏆 Problem Solving
