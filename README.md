@@ -33,14 +33,15 @@ Here are some ideas to get you started:
 
 ### 🛠️ Skills & Technologies
 <p align="center">
-<a>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,vscode&theme=dark"/>
-</a><br>
-<a>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,flask,airflow,sql&theme=dark"/>
-</a><br>
-</p>
 
+<!-- Skillicons -->
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,vscode,pytorch,tensorflow,sklearn,numpy,pandas,flask&theme=dark"/>
+
+<!-- Custom icons -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg" width="48"/>
+
+</p>
 ---
 
 ### 🏆 Problem Solving
