@@ -34,19 +34,17 @@ Here are some ideas to get you started:
 ### 🛠️ Skills & Technologies
 <p align="center">
 
-<!-- Line 1 -->
+<!-- === Line 1 === -->
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,vscode&theme=dark" />
 
 <br><br>
 
-<!-- Line 2 -->
+<!-- === Line 2 === -->
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,flask&theme=dark" />
 
-<!-- Custom: Apache Airflow -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" style="margin-left:6px;" />
 
-<!-- Custom: SQL Server -->
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48" />
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48" style="margin-left:6px;" />
 
 </p>
 
