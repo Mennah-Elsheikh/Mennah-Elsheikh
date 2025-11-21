@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 <!-- Line 2 -->
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,flask&theme=dark" />
 
-<!-- Custom: Airflow -->
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apache-airflow.svg" width="48" />
+<!-- Custom: Apache Airflow -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" />
 
 <!-- Custom: SQL Server -->
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-sql-server.svg" width="48" />
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48" />
 
 </p>
 
