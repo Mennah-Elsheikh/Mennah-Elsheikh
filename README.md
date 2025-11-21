@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 
 ### 🛠️ Skills & Technologies
 <p align="center">
-<a><img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,vscode,C++&theme=dark"/></a><br>
-<a><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,flask&theme=dark"/></a><br>
+<a>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,vscode&theme=dark"/>
+</a><br>
+<a>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,flask,airflow,sql&theme=dark"/>
+</a><br>
 </p>
 
 ---
