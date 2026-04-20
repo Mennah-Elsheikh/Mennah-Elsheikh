@@ -3,20 +3,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mennah+Elsheikh;Data+Analyst+%7C+Scientist+%7C+Engineer;I+don't+pick+a+lane+—+I+love+ALL+the+data+%F0%9F%93%8A;Turning+raw+data+into+real+stories+%E2%9C%A8">
 </h1>
 
+
 ---
 
 ### 🧠 About Me
 
 > *"Give me a dataset and I'll find the story. Give me a pipeline and I'll make it sing."*
 
-- 🎓 Computer & Information Science student @ **Mansoura University** (Excellent GPA)
+- 🎓 Computer & Information Science student @ **Mansoura University** 
 - 📊 I love data in **all its forms** — analyzing it, moving it, modeling it, visualizing it
 - 🏗️ Currently building end-to-end data projects: from **ETL pipelines** to **Power BI dashboards**
 - 🤖 Exploring **ML & Deep Learning** because why not teach machines to love data too
-- 🥇 **1st Place** @ IEEE VICTORIS4 AI Competition (beat 40+ teams, no big deal 😎)
-- 🌍 Based in El-Gharbia, Egypt — where the coffee is strong and the queries are stronger ☕
-- ⚡ Fun fact: I mentor others in data engineering while still being a student. Chaos? Yes. Worth it? Absolutely.
-
 ---
 
 ### 🛠️ Skills & Technologies
@@ -28,11 +25,12 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" width="48" style="margin-left:6px;" alt="Power BI" />
 </p>
 
-**Engineering & Pipelines**
+**Data Engineering & Pipelines**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" alt="Apache Airflow" />
-  <img src="https://img.icons8.com/color/48/microsoft-azure.png" width="48" style="margin-left:6px;" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48" style="margin-left:6px;" alt="Azure" />
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48" style="margin-left:6px;" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" width="48" style="margin-left:6px;" alt="dbt" />
 </p>
 
 **ML & AI**
@@ -61,7 +59,7 @@
 
 ### 🏆 Highlights & Achievements
 
-- 🥇 **1st Place** — IEEE VICTORIS4 AI Competition (YOLO + QR defect detection system)
+- 🥇 **1st Place** — IEEE VICTORIS4 AI Competition (beat 40+ teams)
 - 🚀 **NASA Space Apps** hackathon participant — space & Earth data challenges
 - 💡 **51st place** — ECPC Qualifications 2025 competitive programming round
 - 🎖️ **Vice Leader** — CIS Team, Mansoura University
